@@ -1,9 +1,9 @@
 # Travia
-A Tourism management system , which can be used as a Web app for Karnataka state Tourism company.
+A Tourism management system 
 
 # Developed with
 
- **MEAN** stack technology
+ **MERN** stack technology
  
 **Front end :** HTML 5, CSS 3,Bootstrap 4, AngularJS   
 
