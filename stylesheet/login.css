@@ -1,0 +1,21 @@
+
+.alert
+{
+   
+}
+.active{
+    
+}
+
+.data{
+    display: none;
+}
+.g-signin2{
+    position : absolute;
+     /* left: 50% ;
+    top: 50%; */
+    left: 10% ;
+    top: 57%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
