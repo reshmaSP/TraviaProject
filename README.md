@@ -5,7 +5,7 @@ A Tourism management system
 
  **MERN** stack technology
  
-**Front end :** HTML 5, CSS 3,Bootstrap 4, AngularJS   
+**Front end :** HTML 5, CSS 3,Bootstrap 5 
 
 **Back end :** NodeJS, ExpressJS
 
