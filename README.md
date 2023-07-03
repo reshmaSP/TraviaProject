@@ -1,5 +1,7 @@
 # Travia
-A Tourism management system 
+A website for travellers 
+
+A computerized system to record and maintain tours and travel Implemented a system where the user can view packages, book packages, view weather before booking packages ,option to increase count of members .  Implemented various API’S  such as  Weather Api .Google sign for authorization ,Payment Gateway (Razorpay API)
 
 # Developed with
 
@@ -12,7 +14,7 @@ A Tourism management system
 **Database :** MongoDB 
 
 # Helpers :blush:
-VS Code (editor) , Mlabs (cloud based database as service) , Mongoose (npm package).
+VS Code (editor) 
 
 
 ## Features includes :muscle: 
